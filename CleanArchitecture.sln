@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{609B86F3-275A-4B68-9345-2F10E6EDE825}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{A72CA64C-8A0A-430A-BDCB-FDD15ED2D161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArcheticture.Domain", "src\core\CleanArcheticture.Domain\CleanArcheticture.Domain.csproj", "{198088B2-E012-4D7C-93D8-26E68A335A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArcheticture.Application", "src\core\CleanArcheticture.Application\CleanArcheticture.Application.csproj", "{055BC1CA-0C45-4420-A1FA-6C2F99B253E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198088B2-E012-4D7C-93D8-26E68A335A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198088B2-E012-4D7C-93D8-26E68A335A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198088B2-E012-4D7C-93D8-26E68A335A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198088B2-E012-4D7C-93D8-26E68A335A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055BC1CA-0C45-4420-A1FA-6C2F99B253E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055BC1CA-0C45-4420-A1FA-6C2F99B253E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055BC1CA-0C45-4420-A1FA-6C2F99B253E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055BC1CA-0C45-4420-A1FA-6C2F99B253E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A72CA64C-8A0A-430A-BDCB-FDD15ED2D161} = {609B86F3-275A-4B68-9345-2F10E6EDE825}
+		{198088B2-E012-4D7C-93D8-26E68A335A61} = {A72CA64C-8A0A-430A-BDCB-FDD15ED2D161}
+		{055BC1CA-0C45-4420-A1FA-6C2F99B253E4} = {A72CA64C-8A0A-430A-BDCB-FDD15ED2D161}
+	EndGlobalSection
+EndGlobal

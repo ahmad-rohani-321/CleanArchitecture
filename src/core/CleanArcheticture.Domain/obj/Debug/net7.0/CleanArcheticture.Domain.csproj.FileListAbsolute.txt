@@ -1,0 +1,12 @@
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\bin\Debug\net7.0\CleanArcheticture.Domain.deps.json
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\bin\Debug\net7.0\CleanArcheticture.Domain.dll
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\bin\Debug\net7.0\CleanArcheticture.Domain.pdb
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\obj\Debug\net7.0\CleanArcheticture.Domain.csproj.AssemblyReference.cache
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\obj\Debug\net7.0\CleanArcheticture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\obj\Debug\net7.0\CleanArcheticture.Domain.AssemblyInfoInputs.cache
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\obj\Debug\net7.0\CleanArcheticture.Domain.AssemblyInfo.cs
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\obj\Debug\net7.0\CleanArcheticture.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\obj\Debug\net7.0\CleanArcheticture.Domain.dll
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\obj\Debug\net7.0\refint\CleanArcheticture.Domain.dll
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\obj\Debug\net7.0\CleanArcheticture.Domain.pdb
+E:\Projects\Arghan\CleanArchitecture\src\core\CleanArcheticture.Domain\obj\Debug\net7.0\ref\CleanArcheticture.Domain.dll
